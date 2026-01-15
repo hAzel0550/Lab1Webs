@@ -16,8 +16,8 @@ External Resources Used:
 
 Special Features:
 - Email subscription form
-- Embedded YouTube video
 - Responsive layout using CSS media queries
 - Fixed navigation bar
 
 GitHub Repository URL : https://github.com/hAzel0550/Lab1Webs.git
+
